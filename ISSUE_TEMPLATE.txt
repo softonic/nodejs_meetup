@@ -1,0 +1,14 @@
+* **Title**: 
+* **Speaker**: 
+* **Language**: (en | es)
+* **Type**: (Presentation 30-45 mins | Lightning Talk 5-10 mins)
+* **Level**: (basic | standard | advanced)
+* **Tags**: (e.g. tooling, techniques, live-coding, workshop)
+
+**Description**
+
+*Provide a small paragraph that describes your proposal*
+
+**Speaker Bio** (optional)
+
+*A short bio of the speaker*
