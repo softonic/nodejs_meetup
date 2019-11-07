@@ -4,7 +4,7 @@ This repository is used to centralize information about the Node.js Barcelona co
 
 # Submit a Talk
 
-Have something cool to share with the community? [Open an issue](https://github.com/softonic/nodejs_meetup/speakers/issues/new) to submit a talk.
+Have something cool to share with the community? [Open an issue](https://github.com/softonic/nodejs_meetup/issues/new) to submit a talk.
 
 # Events
 
